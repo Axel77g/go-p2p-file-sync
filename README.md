@@ -7,7 +7,10 @@
 
 <!-- Go version (équivalent au badge Node) -->
 
-![Go Version](https://img.shields.io/badge/go-%3E%3D1.18-blue)
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)](https://go.dev/)
+[![TCP](https://img.shields.io/badge/TCP-Protocol-555555?style=flat)](#)
+[![UDP](https://img.shields.io/badge/UDP-Protocol-555555?style=flat)](#)
+[![P2P](https://img.shields.io/badge/P2P-Networking-6A1B9A?style=flat)](#)
 
 
 ---
