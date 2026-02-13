@@ -6,6 +6,7 @@
 > 📊 [Présentation technique](https://docs.google.com/presentation/d/1kEGpoJS19hbZO0XidA5cflE7A8PdfhAqCd6JQrOz954/edit?usp=sharing)
 
 <!-- Go version (équivalent au badge Node) -->
+
 ![Go Version](https://img.shields.io/badge/go-%3E%3D1.18-blue)
 
 
@@ -205,6 +206,9 @@ go run main.go
 ---
 
 ## 📊 Flux de synchronisation (actuel)
+
+> A,B et C sont des events, On voit sur le graphique que l'historique (un ensemble d'event) se synchronise entre les paires.
+
 <img width="822" height="578" alt="Capture d’écran 2026-02-13 à 22 29 27" src="https://github.com/user-attachments/assets/14f4aab1-191b-4c4a-a81b-d26e34a26c61" />
  
 ---
