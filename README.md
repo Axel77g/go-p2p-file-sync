@@ -1,4 +1,4 @@
-# Go Peer-to-Peer File Synchronization
+# 📁 Go Peer-to-Peer File Synchronization
 
 > 🚧 **POC d'un système de synchronisation décentralisée de fichiers**  
 > ✅ **Principe** : Découverte P2P, Event Sourcing inspiré de Git, Architecture hexagonal et extensible  
