@@ -205,22 +205,8 @@ go run main.go
 ---
 
 ## 📊 Flux de synchronisation (actuel)
-
-
----
-
-## 🔬 Roadmap (si le projet était continué)
-
-| Priorité | Fonctionnalité | Effort | Impact |
-|----------|---------------|--------|--------|
-| **P0** | **Transfert de fichiers** | 2-3 jours | ⭐⭐⭐ Rend le système utilisable |
-| **P0** | **Reconstruction répertoire** | 1-2 jours | ⭐⭐⭐ Exploitation des événements |
-| **P1** | **Résolution de conflits** | 3-5 jours | ⭐⭐ CRDTs ou vector clocks |
-| **P2** | **Activation compression** | Quelques heures | ⭐ Optimisation bande passante |
-| **P2** | **Activation encryption** | Quelques heures | ⭐ Sécurité |
-| **P3** | **Interface Web** | 2-3 jours | ⭐ UX/monitoring |
-| **P3** | **NAT Traversal** | 5+ jours | ⭐ Internet-wide P2P |
-
+<img width="822" height="578" alt="Capture d’écran 2026-02-13 à 22 29 27" src="https://github.com/user-attachments/assets/14f4aab1-191b-4c4a-a81b-d26e34a26c61" />
+ 
 ---
 
 ## 🧪 Tests
